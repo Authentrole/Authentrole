@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Authentrole&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Authentrole&theme=cobalt&no-frame=false&no-bg=false&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=Authentrole&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
